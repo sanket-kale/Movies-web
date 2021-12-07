@@ -3,7 +3,8 @@
 
 ### Description
 
-This is an unofficial client app to list some information from the amazing website The Movie Database, the motivation for this came when I discovered the amazing API that they have, for free. Hence, I decided to build something that makes use of their API. The main feature of the application is already developed, but some of the features that I have in mind will be developed soon.
+This is an unofficial client app to list some information from the amazing website The Movie Database, The main feature of the application is already developed, but some of the features that I have in mind will be developed soon.
+the search option also available to search your favourite movie.
 
 
 API Key
